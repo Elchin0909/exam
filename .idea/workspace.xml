@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="592b96dd-61da-4262-9ae0-e7a0a380cfb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/AdminServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/AuthServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/ReservationServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/UserServiceIMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-app" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-app/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/User.java" afterDir="false" />
     </list>
