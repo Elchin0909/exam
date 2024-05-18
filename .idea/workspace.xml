@@ -7,12 +7,15 @@
     <list default="true" id="592b96dd-61da-4262-9ae0-e7a0a380cfb6" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/AdminServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/AuthServiceIMP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/HotelServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/ReservationServiceIMP.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/serviceImpl/UserServiceIMP.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotel-app" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-app/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/database/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/database/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/Hotel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/service/AdminService.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotel-app/src/uz/app/hotel/service/AdminService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
